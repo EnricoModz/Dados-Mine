@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "cpf": 1,
+        "Nome": "Zumbi",
+        "Tipo": "Morto vivo",
+        "Altura": "2 blocos",
+        "Fraqueza": "Sol",
+        "img": "<img src='UpdatedZombie.jpg' whidth='300px;'>"
+    },
+
+    {
+        "id": 2,
+        "cpf": 2,
+        "Nome": "Esqueleto",
+        "Tipo": "Morto vivo",
+        "Altura": "2 blocos",
+        "Fraqueza": "Sol",
+        "img": "<img src='Esqueleto.jpg' whidth='300px;'>"
+    },
+
+    {
+        "id": 3,
+        "cpf": 3,
+        "Nome": "Aranha",
+        "Tipo": "Artropode",
+        "Altura": "1 blocos",
+        "Fraqueza": "Encantamento",
+        "img": "<img src='Aranha.jpg' whidth='300px;'>"
+    },
+
+    {
+        "id": 4,
+        "cpf": 4,
+        "Nome": "Creper",
+        "Tipo": "Bug",
+        "Altura": "1.7 blocos",
+        "Fraqueza": "Gato",
+        "img": "<img src='Creeper.jpg' whidth='300px;'>"
+    },
+
+    {
+        "id": 5,
+        "cpf": 5,
+        "Nome": "Enderman",
+        "Tipo": "Mob",
+        "Altura": "3 blocos",
+        "Fraqueza": "Água",
+        "img": "<img src='Enderman.jpg' whidth='300px;'>"
+    }
+]
