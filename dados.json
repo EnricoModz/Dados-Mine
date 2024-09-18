@@ -6,7 +6,7 @@
         "Tipo": "Morto vivo",
         "Altura": "2 blocos",
         "Fraqueza": "Sol",
-        "img": "<img src='UpdatedZombie.jpg' whidth='300px;'>"
+        "img": "<img src='img/UpdatedZombie.jpg' whidth='300px;'>"
     },
 
     {
@@ -16,7 +16,7 @@
         "Tipo": "Morto vivo",
         "Altura": "2 blocos",
         "Fraqueza": "Sol",
-        "img": "<img src='Esqueleto.jpg' whidth='300px;'>"
+        "img": "<img src='img/Esqueleto.jpg' whidth='300px;'>"
     },
 
     {
@@ -26,7 +26,7 @@
         "Tipo": "Artropode",
         "Altura": "1 blocos",
         "Fraqueza": "Encantamento",
-        "img": "<img src='Aranha.jpg' whidth='300px;'>"
+        "img": "<img src='img/Aranha.jpg' whidth='300px;'>"
     },
 
     {
@@ -36,7 +36,7 @@
         "Tipo": "Bug",
         "Altura": "1.7 blocos",
         "Fraqueza": "Gato",
-        "img": "<img src='Creeper.jpg' whidth='300px;'>"
+        "img": "<img src='img/Creeper.jpg' whidth='300px;'>"
     },
 
     {
@@ -46,6 +46,6 @@
         "Tipo": "Mob",
         "Altura": "3 blocos",
         "Fraqueza": "Água",
-        "img": "<img src='Enderman.jpg' whidth='300px;'>"
+        "img": "<img src='img/Enderman.jpg' whidth='300px;'>"
     }
 ]
