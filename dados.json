@@ -2,50 +2,50 @@
     {
         "id": 1,
         "cpf": 1,
-        "Nome": "Zumbi",
-        "Tipo": "Morto vivo",
-        "Altura": "2 blocos",
-        "Fraqueza": "Sol",
+        "Nome": "Nome: Zumbi",
+        "Tipo": "Tipo: Morto vivo",
+        "Altura": "Altura: 2 blocos",
+        "Fraqueza": "Fraqueza: Sol",
         "img": "<img src='img/UpdatedZombie.jpg' whidth='300px;'>"
     },
 
     {
         "id": 2,
         "cpf": 2,
-        "Nome": "Esqueleto",
-        "Tipo": "Morto vivo",
-        "Altura": "2 blocos",
-        "Fraqueza": "Sol",
+        "Nome": "Nome: Esqueleto",
+        "Tipo": "Tipo: Morto vivo",
+        "Altura": "Altura: 2 blocos",
+        "Fraqueza": "Fraqueza: Sol",
         "img": "<img src='img/Esqueleto.jpg' whidth='300px;'>"
     },
 
     {
         "id": 3,
         "cpf": 3,
-        "Nome": "Aranha",
-        "Tipo": "Artropode",
-        "Altura": "1 blocos",
-        "Fraqueza": "Encantamento",
+        "Nome": "Nome: Aranha",
+        "Tipo": "Tipo: Artropode",
+        "Altura": "Altura: 1 blocos",
+        "Fraqueza": "Fraqueza: Encantamento",
         "img": "<img src='img/Aranha.jpg' whidth='300px;'>"
     },
 
     {
         "id": 4,
         "cpf": 4,
-        "Nome": "Creper",
-        "Tipo": "Bug",
-        "Altura": "1.7 blocos",
-        "Fraqueza": "Gato",
+        "Nome": "Nome: Creper",
+        "Tipo": "Tipo: Bug",
+        "Altura": "Altura: 1.7 blocos",
+        "Fraqueza": "Fraqueza: Gato",
         "img": "<img src='img/Creeper.jpg' whidth='300px;'>"
     },
 
     {
         "id": 5,
         "cpf": 5,
-        "Nome": "Enderman",
-        "Tipo": "Mob",
-        "Altura": "3 blocos",
-        "Fraqueza": "Água",
+        "Nome": "Nome: Enderman",
+        "Tipo": "Tipo: Mob",
+        "Altura": "Altura: 3 blocos",
+        "Fraqueza": "Fraqueza: Água",
         "img": "<img src='img/Enderman.jpg' whidth='300px;'>"
     }
 ]
